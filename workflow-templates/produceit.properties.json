@@ -1,0 +1,13 @@
+{
+  "name": "ProduceIT CI Workflow",
+  "description": "ProduceIT CI workflow template.",
+  "iconName": "produceit-icon",
+  "categories": [
+    "Java"
+  ],
+  "filePatterns": [
+    "package.json$",
+    "^Dockerfile",
+    ".*\\.md$"
+  ]
+}
